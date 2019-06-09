@@ -4,6 +4,8 @@
 
     $ make all   ### to make the default targets
 
+![](https://github.com/typebrook/taiwan-contour/blob/dev/make_graph.png)
+
 ## Target list
 
 * `taiwan-contour`
